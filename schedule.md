@@ -4,7 +4,7 @@ title: Programação
 permalink: /schedule/
 ---
 
-## Atividades que aconteceram ao longo de todo o dia
+## Atividades que acontecerão ao longo de todo o dia
 
 * Instalando um GNU Debian 100% livre
 > Quer usar Debian no seu Notebook? O
