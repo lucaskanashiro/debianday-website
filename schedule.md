@@ -23,7 +23,7 @@ permalink: /schedule/
 * Abertura: O que é o Debian
 > A palestra de abertura visa apresentar o sistema operacional Debian e a suas
   princípais características. Se você quer entender melhor o que o Debian
-  tem para oferecer, não perca essa paletra.
+  tem para oferecer, não perca essa palestra.
 
 * Conhecendo o Debian Bug Tracking System (BTS)
 > O BTS é o sistema de controle de bugs usado pelo Debian. Nesta palestra você
