@@ -4,7 +4,7 @@ title: Programação
 permalink: /schedule/
 ---
 
-## Atividades que acontecerão ao longo de todo o dia
+## Atividades que acontecerão durante o evento
 
 * Instalando um GNU Debian 100% livre
 > Quer usar Debian no seu Notebook? O
@@ -18,31 +18,19 @@ permalink: /schedule/
 ---
 ## Palestras
 
-# Manhã
+# Tarde (14h)
 
 * Abertura: O que é o Debian
 > A palestra de abertura visa apresentar o sistema operacional Debian e a suas
   princípais características. Se você quer entender melhor o que o Debian
   tem para oferecer, não perca essa palestra.
 
-* Conhecendo o Debian Bug Tracking System (BTS)
-> O BTS é o sistema de controle de bugs usado pelo Debian. Nesta palestra você
-  entenderá como funciona o fluxo básico de utilização de tal ferramenta.
-
-* Opções para participar da comunidade
-> Quer coloborar com o Debian? Não sabe como? Essa palestra tem por objetivo
-  dar uma visão geral sobre como ajudar a comunidade em diversas áreas.
-
-# Tarde
-
-* O que é uma chave GPG e assinaturas
-> Você se importa com segurança e privacidade? Então não perca a oportunidade
-  de entender como o GPG pode te ajudar.
-
 * Precisamos discutir a liberdade dos usuário
 > O tema liberdade do usuário é constantemente deixado de lado ou menosprezado.
   Essa palestra tem por objetivo retomar pontos importantes da liberdade do
-  usuário e promover uma discussão com o público.
+  usuário e promover uma discussão com o público. Palestrante: Siqueira
 
-* Lightning Talks (palestras de até 5 minutos)
-> Ciclo de pequenas palestras abordando diversos temas.
+* Lightning Talks sobre opções para participar da comunidade
+> Quer coloborar com o Debian? Não sabe como? Esse ciclo de pequenas palestra
+  tem por objetivo dar uma visão geral sobre como ajudar a comunidade em
+  diversas áreas.
