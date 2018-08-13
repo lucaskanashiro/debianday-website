@@ -30,7 +30,7 @@ permalink: /schedule/
 > Quer coloborar com o Debian? Não sabe como? Essa palestra tem por objetivo
   dar uma visão geral sobre como ajudar a comunidade em diversas áreas.
 
-* Precisamos discutir a liberdade dos usuário (Rodrigo Siqueira)
+* Precisamos discutir a liberdade do usuário (Rodrigo Siqueira)
 > O tema liberdade do usuário é constantemente deixado de lado ou menosprezado.
   Essa palestra tem por objetivo retomar pontos importantes da liberdade do
   usuário e promover uma discussão com o público.
